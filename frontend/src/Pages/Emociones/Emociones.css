@@ -1,0 +1,112 @@
+html,
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #b7f4ff;
+  margin: 0;
+}
+.App {
+  text-align: center;
+}
+.color {
+  height: 1000px;
+}
+h3 {
+  color: white;
+  font-weight: bold;
+  
+}
+.Titulo {
+  margin-top: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  background-color: #7bebff;
+  width: 45%;
+  padding: 4px;
+  border-radius: 10px;
+  color: white;
+  max-width: 150px;
+  min-width: 100px;
+  margin-left: 115px;
+  margin-right: -90px;
+  
+}
+
+.emj1 {
+  width: 20px;
+  height: 20px;
+}
+
+.titulo2 {
+  margin-top: 35px;
+ color:gray;
+ font-size:13px;
+}
+
+.boton1 {
+  margin-top: -845px;
+  height: 100%;
+  border-radius: 40px;
+}
+
+.boton2 {
+  margin-top: 10px;
+  
+}
+.boton3 {
+  margin-top: 10px;
+}
+.boton4 {
+  margin-top: 10px;
+}
+.boton5 {
+  margin-top: 10px;
+}
+.boton6 {
+  margin-top: 10px;
+}
+
+.usuario {
+  width: 45px;
+  height: 45px;
+  margin-top: -7px;
+  margin-left: -5px;
+}
+
+.img1 {
+  width: 30px;
+  height: 30px;
+  margin-top: -75px;
+  margin-left: 330px;
+}
+.img2 {
+  width: 30px;
+  height: 30px;
+  margin-left: 330px;
+  margin-top: -75px;
+}
+.img3 {
+  width: 30px;
+  height: 30px;
+  margin-left: 330px;
+  margin-top: -75px;
+}
+.img4 {
+  width: 30px;
+  height: 30px;
+  margin-left: 330px;
+  margin-top: -75px;
+}
+.img5 {
+  width: 30px;
+  height: 30px;
+  margin-left: 330px;
+  margin-top: -75px;
+}
+.img6 {
+  width: 30px;
+  height: 30px;
+  margin-left: 330px;
+  margin-top: -75px;
+}
